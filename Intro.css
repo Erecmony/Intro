@@ -33,17 +33,12 @@ body {
   
   .info h2 {
     font-size: 40px;
-    margin-left: 10px;
+    margin-left: 20px;
   }
 
   .info li {
     font-size: 30px;
-  }
-
-  .name {
-    float: left;
-    margin-right: 100px;
-  }  
+  } 
   
   .contents {
     height: 500px;
