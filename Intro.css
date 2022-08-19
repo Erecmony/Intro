@@ -28,15 +28,14 @@ body {
   }
 
   .section-title {
-    border-bottom: 2px solid #dee7ec;
+    border-bottom: 2px solid #a9a9a9;
     font-size: 28px;
     padding-bottom: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
   
   .info h2 {
     font-size: 20px;
-    margin-left: 20px;
   }
 
   .info li {
