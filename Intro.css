@@ -42,13 +42,8 @@ body {
 
   .name {
     float: left;
-  }
-
-  .name img {
-    width: 30px;
-    padding-left: 100px;
-  }
-  
+    margin-right: 100px;
+  }  
   
   .contents {
     height: 500px;
