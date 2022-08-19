@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: #26d0c9;
+    background-color: #00bfff;
     color: #fff;
     height: 90px;
   }
@@ -27,17 +27,26 @@ body {
     padding: 100px 80px;
   }
   
-  .copy-container h1 {
-    font-size: 140px;
+  .info h1 {
+    font-size: 50px;
   }
   
-  .copy-container h2 {
-    font-size: 60px;
+  .info h2 {
+    font-size: 40px;
+  }
+
+  .info li {
+    font-size: 30px;
+  }
+
+  .name {
+    float: left;
+  }
+
+  .name img {
+    padding: 100px;
   }
   
-  .copy-container span {
-    color: #ff4a4a;
-  }
   
   .contents {
     height: 500px;
@@ -50,32 +59,3 @@ body {
     padding-bottom: 15px;
     margin-bottom: 50px;
   }
-  
-  .contents-item {
-    float: left;
-    margin-right: 40px;
-  }
-  
-  .contents-item p {
-    font-size: 24px;
-    margin-top: 30px;
-  }
-  
-  .contact-form {
-    padding-top: 100px;
-  }
-  
-  input, textarea {
-    width: 400px;
-    margin-top: 10px;
-    margin-bottom: 30px;
-    padding: 20px;
-    font-size: 18px;
-    border: 1px solid #dee7ec;
-  }
-  
-  .contact-submit {
-    background-color: #dee7ec;
-    color: #889eab;
-  }
-  
