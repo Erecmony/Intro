@@ -24,7 +24,7 @@ body {
   }
   
   .main {
-    padding: 50px 80px;
+    padding: 30px 80px;
   }
 
   .section-title {
@@ -41,6 +41,10 @@ body {
   .info li {
     font-size: 15px;
   } 
+
+  .history {
+    margin-top: 10px;
+  }
 
   .history li {
     font-size: 15px;
