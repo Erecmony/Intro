@@ -26,28 +26,28 @@ body {
   .main {
     padding: 100px 80px;
   }
-  
-  .info h1 {
-    font-size: 50px;
-  }
-  
-  .info h2 {
-    font-size: 40px;
-    margin-left: 20px;
-  }
 
-  .info li {
-    font-size: 30px;
-  } 
-  
-  .contents {
-    height: 500px;
-    margin-top: 100px;
-  }
-  
   .section-title {
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 50px;
   }
+  
+  .info h2 {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+
+  .info li {
+    font-size: 10px;
+  } 
+  
+  .history {
+    height: 500px;
+    margin-top: 100px;
+  }
+
+
+  
+
