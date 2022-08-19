@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: #00bfff;
+    background-color: #1e90ff;
     color: #fff;
     height: 90px;
   }
@@ -46,7 +46,7 @@ body {
 
   .name img {
     width: 30px;
-    padding: 100px;
+    padding-left: 100px;
   }
   
   
